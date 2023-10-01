@@ -3,4 +3,4 @@
 - ⚡️ | Studying: Python
 - 🦈 | Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatinnsx&show_icons=true&theme=dark&icon_color=FF0000&border_color=202020)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatinnsx&show_icons=true&theme=dark&icon_color=7C00FF&border_color=202020)
