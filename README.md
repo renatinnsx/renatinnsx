@@ -9,3 +9,5 @@
 </div>
 
   ##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatinnsx&layout=compact&theme=dark&icon_color=7C00FF&border_color=202020)
