@@ -1,4 +1,4 @@
-### Hi! My name is Renato, and I'm just a beginner in programming and a student of web development;
+### Hi! My name is Renato, I'm just a beginner in web development and a beginner in ethical hacking;
 
 - ⚡️ | Studying: HTML, CSS, JavaScript, Python;
 
