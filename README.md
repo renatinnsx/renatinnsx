@@ -1,6 +1,6 @@
-### Hello! My name is Renato, I'm just a beginner programming student;
+### Hi! My name is Renato, and I'm just a beginner in programming and a student of web development;
 
-- ⚡️ | Studying: Python
+- ⚡️ | Studying: HTML, CSS, JavaScript, Python;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatinnsx&show_icons=true&theme=dark&icon_color=7C00FF&border_color=202020)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatinnsx&layout=compact&theme=dark&icon_color=7C00FF&border_color=202020)
