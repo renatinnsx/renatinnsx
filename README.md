@@ -16,7 +16,7 @@
   <img align="center" alt="jquery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
   <img align="center" alt="ionic" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original-wordmark.svg" />
 
-              
+  ![snake gif](https://github.com/artur-debv/artur-debv/blob/output/github-contribution-grid-snake.svg)            
 </div>
 
   ##
