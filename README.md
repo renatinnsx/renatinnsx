@@ -12,8 +12,6 @@
 
 <div style="display: inline_block" align="center"><br>
     <h3>Skills:</h3>
-      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
       <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue"/>
 </div>
 
@@ -28,6 +26,8 @@
 
 <div align="center">
     <h3>Studying:</h3>
+      <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
       <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
       <img src="https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=CC6699"/>
       <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
