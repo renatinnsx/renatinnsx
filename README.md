@@ -21,7 +21,6 @@
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white"/> 
 </div>
 
 <div align="center">
@@ -36,4 +35,5 @@
       <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=005C84"/>
       <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
       <img src="https://img.shields.io/badge/Ionic-000000?style=for-the-badge&logo=ionic&logoColor=3880FF"/>
+      <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
