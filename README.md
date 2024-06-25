@@ -2,11 +2,7 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=renatinnsx&show_icons=true&theme=dark&icon_color=7C00FF&border_color=202020" alt="Anurag's GitHub stats" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatinnsx&layout=compact&theme=dark&icon_color=7C00FF&border_color=202020" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatinnsx&layout=compact&theme=dark&icon_color=7C00FF&border_color=000000" alt="Top Langs" />
 </div>
 
 <div style="display: inline_block" align="center"><br>
