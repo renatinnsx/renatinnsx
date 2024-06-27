@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
     <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=A435F0"/>
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
-    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5"/>
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E45126"/>
+    <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=0C73B8"/>
+    <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
   <h3>In Study:</h3>
   <h3>Study Platforms:</h3>
 </div>
