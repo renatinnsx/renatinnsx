@@ -6,7 +6,8 @@
 <br>
 <div style="display: inline_block" align="center">
   <h3>Tools:</h3>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0080FF?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=000000&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0080FF&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&logoSize=auto"/>
   <h3>In Study:</h3>
   <h3>Study Platforms:</h3>
 </div>
