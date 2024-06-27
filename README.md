@@ -10,9 +10,11 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F54D27"/>
-    <img src="https://img.shields.io/badge/Windows%2011-000000?style=for-the-badge&logo=Windows%2011&logoColor=00B9FF"/>
+    <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows%2011&logoColor=00B9FF"/>
     <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
     <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=A435F0"/>
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
+    <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5"/>
   <h3>In Study:</h3>
   <h3>Study Platforms:</h3>
 </div>
