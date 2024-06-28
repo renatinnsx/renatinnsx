@@ -1,5 +1,3 @@
-<hr>
-
 - **Hi! My name is Renato, I'm 15 years old, I'm just starting out in web development and I'm a beginner fascinated by ethical hacking;**
 <br>
 <div align="center">
@@ -26,4 +24,6 @@
     <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
     <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=A435F0"/>
 </div>
-<br><hr>
+<br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renatinnsx&bg_color=000000&color=ffffff&line=3c3c3c&point=3c3c3c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
