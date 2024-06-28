@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatinnsx&layout=compact&theme=dark&border_color=000000"/>
 </div>
-<br><hr>
+<br>
 <div style="display: inline_block" align="center">
   <h3>Tools:</h3>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0080FF"/>
@@ -22,6 +22,7 @@
     <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=Arch%20Linux"/>
     <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=Kali%20Linux&logoColor=white&logoSize=auto"/>
   <h3>Study Platforms:</h3>
+    <img src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=FE0002"/>
     <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
     <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=A435F0"/>
 </div>
