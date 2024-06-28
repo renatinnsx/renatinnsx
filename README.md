@@ -17,6 +17,9 @@
     <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E45126"/>
     <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=0C73B8"/>
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
+    <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=Kali%20Linux&logoColor=white&logoSize=auto"/>
+    <img src="https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=Tor%20Browser&logoColor=9C3BEA"/>
+    <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=Arch%20Linux"/>
   <h3>In Study:</h3>
   <h3>Study Platforms:</h3>
 </div>
