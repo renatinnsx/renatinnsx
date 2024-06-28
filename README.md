@@ -9,17 +9,16 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0080FF"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F54D27"/>
     <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows%2011&logoColor=00B9FF"/>
-    <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
-    <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=A435F0"/>
+  <h3>In Study:</h3>
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
     <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E45126"/>
     <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=0C73B8"/>
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
-    <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=Kali%20Linux&logoColor=white&logoSize=auto"/>
-    <img src="https://img.shields.io/badge/Tor-000000?style=for-the-badge&logo=Tor%20Browser&logoColor=9C3BEA"/>
+    <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F54D27"/>
     <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=Arch%20Linux"/>
-  <h3>In Study:</h3>
+    <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=Kali%20Linux&logoColor=white&logoSize=auto"/>
   <h3>Study Platforms:</h3>
+    <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
+    <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=A435F0"/>
 </div>
