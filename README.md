@@ -1,4 +1,4 @@
-<br><hr>
+<hr>
 - **Hi! My name is Renato, I'm 15 years old, I'm just starting out in web development and I'm a beginner fascinated by ethical hacking;**
 <br>
 <div align="center">
