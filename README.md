@@ -28,5 +28,8 @@
       <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
       <img src="https://img.shields.io/badge/Udemy-000000?style=for-the-badge&logo=Udemy&logoColor=A435F0"/>
   </div>
+
+  <br>
+  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C00FF&height=120&section=footer"/>
 </div>
