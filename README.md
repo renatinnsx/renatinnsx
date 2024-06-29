@@ -1,6 +1,6 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7C00FF&height=120&section=header"/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&font=JetBrains+Mono&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+My+name+is+Renato;I'm+15+years+old;I+from+Brasil;I'm+study+web+development;Be+Welcome!" alt="renatinnsx" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&font=JetBrains+Mono&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+My+name+is+Renato;I'm+15+years+old;I+from+Brasil;I'm+study+web+development;Be+Welcome!" alt="renatinnsx" /></a>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renatinnsx&show_icons=true&theme=dark&icon_color=7C00FF&border_color=000000)](https://github.com/renatinnsx)
 
