@@ -15,14 +15,17 @@
       <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=Windows%2011&logoColor=00B9FF"/>
     <h3>In Study:</h3>
-      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
       <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=E45126"/>
       <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=0C73B8"/>
       <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript"/>
-      <img src="https://img.shields.io/badge/C%20Sharp-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python"/>
       <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F54D27"/>
-      <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=Arch%20Linux"/>
+      <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <h3>I'm not studying yet:</h3>
       <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=Kali%20Linux&logoColor=white&logoSize=auto"/>
+      <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=Arch%20Linux"/>
+      <img src="https://img.shields.io/badge/C%20Sharp-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logoColor=white"/>
     <h3>Study Platforms:</h3>
       <img src="https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=FE0002"/>
       <img src="https://img.shields.io/badge/Duolingo-000000?style=for-the-badge&logo=Duolingo&logoColor=58CC02"/>
