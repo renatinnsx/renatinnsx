@@ -23,7 +23,6 @@
       <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
     <h3>I'm not studying yet:</h3>
       <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=Kali%20Linux&logoColor=white&logoSize=auto"/>
-      <img src="https://img.shields.io/badge/Arch%20Linux-000000?style=for-the-badge&logo=Arch%20Linux"/>
       <img src="https://img.shields.io/badge/C%20Sharp-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/CyberSecurity-000000?style=for-the-badge&logoColor=white"/>
     <h3>Study Platforms:</h3>
