@@ -6,8 +6,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renatinnsx&layout=compact&theme=dark&border_color=000000)
   
-  <br>
-  
   <div align="center">
     <h3>Tools:</h3>
       <img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=0080FF"/>
