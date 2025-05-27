@@ -6,4 +6,4 @@
   </div>
   
   #### I'm studying in the moment:
-  ![Static Badge](https://img.shields.io/badge/Pato%20Academy-000000?style=for-the-badge)
+  ![Pato Academy](https://img.shields.io/badge/Pato%20Academy-000000?style=for-the-badge)
